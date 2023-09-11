@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 Con la finalidad de prevenir, controlar y erradicar la presencia de enfermedades aviares, la autoridad sanitaria oficial, el Instituto Colombiano Agropecuario, ICA, ha establecido medidas básicas de bioseguridad y demás requisitos sanitarios que son de cumplimiento obligatorio para todas las granjas avícolas del país, pues estas requieren de una serie de procesos sistemáticos para garantizar su eficiencia y rentabilidad. Entre ellos, se encuentran los parámetros etológicos, el bienestar animal, la bioseguridad, las buenas prácticas, la alimentación y nutrición, así como la uniformidad y densidad en la crianza. Estos aspectos son fundamentales para evaluar la producción en cada período, por lo que su implementación y conocimiento resultan de gran importancia. En el siguiente mapa conceptual, encontrará la ruta del contenido visto.
 
     .row.justify-content-center
       .col-lg-10.mb-5
