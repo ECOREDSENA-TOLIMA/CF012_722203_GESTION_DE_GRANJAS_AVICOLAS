@@ -92,16 +92,15 @@
       figcaption Nota. Tomada de Ross an Avigen Brand (2018).
 
     p(data-aos="zoom-in") En la figura se pueden observar los círculos rojos que indican el ejemplo de dónde se deben tomar las muestras.
-    p.mb-4(data-aos="zoom-in") Si las aves están en las primeras semanas se pueden pesar varias en un recipiente como un balde o bandeja, teniendo en cuenta que no deben apilarse (uno encima de otro) o maltratar los animales. La capacidad puede variar de 10 a 20 animales por balde o bandeja, dependiendo de su peso.
+    p.mb-5(data-aos="zoom-in") Si las aves están en las primeras semanas se pueden pesar varias en un recipiente como un balde o bandeja, teniendo en cuenta que no deben apilarse (uno encima de otro) o maltratar los animales. La capacidad puede variar de 10 a 20 animales por balde o bandeja, dependiendo de su peso.
 
-    .col-xl-6.mx-auto.mb-5
+    .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Figura 2.
         span <em>Pesaje colectivo manual de pollitos con báscula electrónica</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema4/img-4.png" data-aos="fade-left")
-      figcaption Nota. Tomada de Freepik.
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema4/img-4.svg" data-aos="fade-left")
 
-    p(data-aos="zoom-in") Si las aves se encuentran en etapas adultas se pesan amarrando varios animales, de los miembros posteriores para colgarlas en la báscula y proceder a pesarlas. 
+    p.mb-4(data-aos="zoom-in") Si las aves se encuentran en etapas adultas se pesan amarrando varios animales, de los miembros posteriores para colgarlas en la báscula y proceder a pesarlas. 
 
     .col-xl-8.mx-auto.mb-5
       .cajon.color-acento-contenido.p-4.d-flex.flex-wrap(data-aos="fade-right")
@@ -111,12 +110,11 @@
             br
             | Se debe cuidar de utilizar la misma báscula en cada pesaje, realizar mantenimiento periódico y calibrarse previo a cada pesaje. Utilizando un corral de captura, selecciones como mínimo 100 aves o el 1 % de la población del galpón (lo que sea mayor) para realizar el pesaje.
 
-    .col-xl-6.mx-auto.mb-5
+    .col-xl-4.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Figura 3.
         span <em>Pesaje individual de un ave adulta</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema4/img-5.png" data-aos="fade-left")
-      figcaption Nota. Tomada de Farré-Energía
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema4/img-5.svg" data-aos="fade-left")
     
     p(data-aos="zoom-in") Este procedimiento, se realiza tomando población de aves de tres sitios diferentes del galpón, cuidando siempre de hacerlo de manera proporcional y que sea lejos de las puertas y paredes del galpón, posteriormente, se debe tomar a cada ave de la muestra seleccionada, ubicar sus miembros posteriores en el grillete y cuando el ave se quede quieta, proceder a tomar los datos del peso.
 

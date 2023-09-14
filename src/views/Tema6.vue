@@ -42,12 +42,11 @@
     p Es de aclarar que las características físicas y organolépticas del alimento varían, si son pollos de engorde o gallinas ponedoras, esto debido a que sus necesidades son muy diferentes.
     p.mb-4 El alimento que se presenta en la siguiente imagen son migas, el del centro son pelets y a la derecha harinas o mezclas; los pollos de engorde eligen las partículas de alimento por su forma, color, tamaño y consistencia y prefieren el alimento que sea más fácil para tomar como lo son las migajas o pelets. 
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-11.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Figura 4.
         span <em>Diferentes formas de alimento con la misma composición de nutrientes</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema6/img-2.png" data-aos="fade-left")
-      figcaption Nota. Tomada de Kreis (2020).
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema6/img-2.svg" data-aos="fade-left")
 
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(

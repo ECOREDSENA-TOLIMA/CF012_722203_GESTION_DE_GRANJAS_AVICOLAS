@@ -93,8 +93,7 @@
               h5 Figura 5.
               span <em>Pollo con la enfermedad de Newcastle</em>
             figure
-              img.mb-3(src='@/assets/curso/temas/tema9/img-3.png', alt='Texto que describa la imagen')
-              figcaption Nota. Tomado de Avicultura.com
+              img.mb-3(src='@/assets/curso/temas/tema9/img-3.svg', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -106,8 +105,7 @@
               h5 Figura 6.
               span <em>Pollo con la gripe o influenza aviar</em>
             figure
-              img.mb-3(src='@/assets/curso/temas/tema9/img-4.png', alt='Texto que describa la imagen')
-              figcaption Nota. Tomado del Ministerio de Ganadería, Agricultura y Pesca de Uruguay.
+              img.mb-3(src='@/assets/curso/temas/tema9/img-4.svg', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -119,8 +117,7 @@
               h5 Figura 7.
               span <em>Pollo con salmonelosis aviar</em>
             figure
-              img.mb-3(src='@/assets/curso/temas/tema9/img-5.png', alt='Texto que describa la imagen')
-              figcaption Nota. Tomado de Asociación Venezolana de Producción Animal (AVPA).
+              img.mb-3(src='@/assets/curso/temas/tema9/img-5.svg', alt='Texto que describa la imagen')
 
     h4.mb-4 Signos de reconocimiento de las enfermedades de notificación oficial
     p Reconocer los signos de las enfermedades de control oficial es de vital importancia, puesto que permite a las unidades productivas actuar oportunamente ante un brote en la producción que pueda afectar visiblemente todos los procesos y que pueda propagarse rápidamente interviniendo con la sanidad, bioseguridad, buenas prácticas, trazabilidad, inocuidad y calidad del producto. 
