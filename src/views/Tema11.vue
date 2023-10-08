@@ -15,7 +15,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema11/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Por su parte la mayoría de las enfermedades infecciosas que afectan a las aves de corral son cosmopolitas y de amplia distribución, pudiendo afectar aves domésticas y silvestres al mismo tiempo. Por ello, el proceso de vacunación es el mejor método de hacer un efectivo control y prevención, teniendo en cuenta que la vacunación es simplemente el proceso por el cual se exponen individuos sanos a un antígeno de un agente causante de una enfermedad, ya sea vivo o inactivado, para inmunizar contra el mismo, cuando se logra este propósito los individuos se benefician de su inmunidad activa mientras que su progenie podrá beneficiarse a través de inmunidad maternal, conocida también como inmunidad pasiva.
+        p.mb-0 Por su parte, la mayoría de las enfermedades infecciosas que afectan a las aves de corral son cosmopolitas y de amplia distribución, pudiendo afectar aves domésticas y silvestres al mismo tiempo. Por ello, el proceso de vacunación es el mejor método de hacer un efectivo control y prevención, teniendo en cuenta que la vacunación es simplemente el proceso por el cual se exponen individuos sanos a un antígeno de un agente causante de una enfermedad, ya sea vivo o inactivado, para inmunizar contra el mismo, cuando se logra este propósito los individuos se benefician de su inmunidad activa mientras que su progenie podrá beneficiarse a través de inmunidad maternal, conocida también como inmunidad pasiva.
 
     p.mb-5 En la industria avícola, se pueden encontrar dos tipos de vacunas, a saber:
     
@@ -40,22 +40,127 @@
 
     p.mb-5 De acuerdo con el tipo de producción que se esté llevando a cabo con las aves de corral, se tienen diseñados esquemas vacunales que permiten asegurar las condiciones sanitarias de las aves de corral, garantizando el control y prevención de enfermedades infecciosas en las diferentes etapas de los procesos productivos, los cuales en términos generales son:
 
-    .col-xl-12.mx-auto.mb-5
+    .col-12.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Tabla 1.
         span <em>Esquema de vacunación para ponedoras</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema11/img-2.svg" data-aos="fade-left")
+      .tabla-b.color-acento-botones(data-aos="fade-left")
+        table
+          thead.text-center(style="background-color:#06D1D1")
+            tr
+              th Edad
+              th Enfermedad
+              th Cepa
+              th Método
+          tbody
+            tr
+              th.p-2.text-center 1 día
+              td.p-2 #[em Marek.]
+              td.p-2 #[em Rispens]/HVT + SB1 c.a.
+              td.p-2 s.c./i.m. (1). 
+            tr
+              th.p-2.text-center 1 - 7 días
+              td.p-2 
+                p Bronquitis Infecciosa.
+                p Enfermedad de #[em Newcastle].
+              td.p-2 
+                p Tipo #[em Massachusetts].
+                p Tipo #[em Hitchner] B1 o LaSota clonada.
+              td.p-2 Ocular / aspersión gota gruesa (2). 
+            tr
+              th.p-2.text-center Opcional
+              td.p-2 Enfermedad de #[em Newcastle].
+              td.p-2 Vacuna inactivada.
+              td.p-2 s.c./i.m. (1,2). 
+            tr
+              th.p-2.text-center 25 - 28 días
+              td.p-2 Enfermedad de #[em Newcastle].
+              td.p-2 Tipo Lasota.
+              td.p-2 Agua de bebida / ocular / aspersión gota gruesa. 
+            tr
+              th.p-2.text-center 25 - 28 días
+              td.p-2 Gumboro.
+              td.p-2 Tipo intermedio.
+              td.p-2 Agua de bebida / ocular / aspersión gota gruesa (3). 
+            tr
+              th.p-2.text-center 35 - 38 días
+              td.p-2 Gumboro.
+              td.p-2 Tipo intermedio.
+              td.p-2 Agua de bebida / ocular/ aspersión gota gruesa. 
+            tr
+              th.p-2.text-center 8 semanas
+              td.p-2 
+                p Bronquitis Infecciosa.
+                p Enfermedad de #[em Newcastle].
+              td.p-2 
+                p Tipo #[em Massachusetts].
+                p Tipo Lasota.
+              td.p-2 Agua de bebida / ocular / aspersión gota gruesa. 
+            tr
+              th.p-2.text-center Opcional
+              td.p-2 Enfermedad de #[em Newcastle].
+              td.p-2 Vacuna inactivada.
+              td.p-2 s.c./i.m. (1). 
+            tr
+              th.p-2.text-center 6 - 12 semanas
+              td.p-2 Encefalomielitis / Viruela Aviar.
+              td.p-2 
+              td.p-2 Punción alar. 
+            tr
+              th.p-2.text-center 6 - 12 semanas
+              td.p-2 #[em Micoplasma gallisepticum].
+              td.p-2 Vacuna viva.
+              td.p-2 Aspersión gota fina (5). 
+            tr
+              th.p-2.text-center 18 semanas
+              td.p-2 Inactivada: #[em Newcastle] bronquitis. Síndrome de caída de postura.
+              td.p-2 
+              td.p-2 s.c. / i.m. 
+      //- img.d-md-block.mb-3(src="@/assets/curso/temas/tema11/img-2.svg" data-aos="fade-left")
    
     .col-xl-12.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Tabla 2.
         span <em>Esquema vacunal para pollos de engorde</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema11/img-3.svg" data-aos="fade-left")
-
-
-
-
-
+      .tabla-b.color-acento-botones(data-aos="fade-left")
+        table
+          thead.text-center(style="background-color:#06D1D1")
+            tr
+              th Edad
+              th Enfermedad
+              th Cepa
+              th Método
+          tbody
+            tr
+              th.p-2.text-center 1 día
+              td.p-2 #[em Marek]
+              td.p-2 HVT c.a.
+              td.p-2 s.c./i.m. (1).
+            tr
+              th.p-2.text-center 1 - 7 días
+              td.p-2 
+                p Bronquitis Infecciosa.
+                p Enfermedad de #[em Newcastle].
+              td.p-2 
+                p Tipo #[em Massachusetts].
+                p Tipo #[em Hitchner] B1 o LaSota clonada.
+              td.p-2 Ocular / aspersión gota gruesa (2).
+            tr
+              th.p-2.text-center 7 - 10 días
+              td.p-2 #[em Gumboro].
+              td.p-2 Tipo intermedio.
+              td.p-2 Agua de bebida / ocular / aspersión gota gruesa (3).
+            tr
+              th.p-2.text-center 18 - 21 días
+              td.p-2 #[em Gumboro].
+              td.p-2 Tipo intermedio.
+              td.p-2 Agua de bebida / ocular / aspersión gota gruesa.
+            tr
+              th.p-2.text-center 25 - 28 días
+              td.p-2 Enfermedad de #[em Newcastle].
+              td.p-2 Tipo LaSota.
+              td.p-2 Agua de bebida / ocular / aspersión gota gruesa.
+      //- img.d-md-block.mb-3(src="@/assets/curso/temas/tema11/img-3.svg" data-aos="fade-left")
 
 </template>
 

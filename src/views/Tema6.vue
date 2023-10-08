@@ -12,9 +12,11 @@
     p.mb-4 Para calcular el consumo alimento del lote de aves en los sistemas productivos se puede realizar mediante la siguiente fórmula, del consumo de alimento de ave por día, se expresa como: 
 
     .col-xl-8.mx-auto.mb-5
-      img.d-md-block(src="@/assets/curso/temas/tema6/img-1.svg" data-aos="fade-left")
+      .cajon.color-acento-contenido.p-4
+        p.mb-0.text-center Consumo gr / ave / día = (Total de alimento ofrecido (Kg) / 100) / (Existencia de aves) 
+        //img.d-md-block(src="@/assets/curso/temas/tema6/img-1.svg" data-aos="fade-left")
 
-    p El consumo de alimento representa entre el 60% al 70% de los costos fijos de producción, con esta expresión también permite despejarse, para obtener la cantidad de alimento que se ofertará conociendo la cantidad de aves alojadas.
+    p El consumo de alimento representa entre el 60 % al 70 % de los costos fijos de producción, con esta expresión también permite despejarse, para obtener la cantidad de alimento que se ofertará conociendo la cantidad de aves alojadas.
     p Es importante que el resultado anterior se tome como el observado (RO) y deben compararse con los resultados esperados (RE), que son los que se ofrecen en las tablas propuestas de consumo que se encuentran dentro de los manuales específicos de cada línea genética.
     p.mb-4 De esta forma se evalúa sí la alimentación es la adecuada de acuerdo con los parámetros propuestos por etapa, edad y propósitos productivos.
 
@@ -40,13 +42,13 @@
             | En las producciones comerciales grandes, las aves se alimentan exclusivamente con piensos balanceados, concentrados y diseñados para suplir los requerimientos nutricionales según la línea genética, la edad y el tipo de producción, actualmente se encuentran en el mercado diferentes ofertas de fórmulas de distintas casas comerciales que afirman lograr resultados óptimos en el desarrollo productivo de las aves; también hay bases alimenticias nutricionales para que los productores que lo prefieren diseñen sus propias mezclas y concentrados.
 
     p Es de aclarar que las características físicas y organolépticas del alimento varían, si son pollos de engorde o gallinas ponedoras, esto debido a que sus necesidades son muy diferentes.
-    p.mb-4 El alimento que se presenta en la siguiente imagen son migas, el del centro son pelets y a la derecha harinas o mezclas; los pollos de engorde eligen las partículas de alimento por su forma, color, tamaño y consistencia y prefieren el alimento que sea más fácil para tomar como lo son las migajas o pelets. 
+    p.mb-4 El alimento que se presenta en la siguiente imagen son migas, el del centro son #[em pelets] y a la derecha harinas o mezclas; los pollos de engorde eligen las partículas de alimento por su forma, color, tamaño y consistencia y prefieren el alimento que sea más fácil para tomar como lo son las migajas o #[em pelets]. 
 
     .col-xl-11.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Figura 4.
         span <em>Diferentes formas de alimento con la misma composición de nutrientes</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema6/img-2.svg" data-aos="fade-left")
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema6/img-2.svg" data-aos="fade-left" alt="En la figura 4 se muestran tres tipos de formas de alimentos para aves, migas, pelets y harinas o mezclas.")
 
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(

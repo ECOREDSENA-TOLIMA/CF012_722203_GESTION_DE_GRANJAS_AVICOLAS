@@ -14,10 +14,10 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Por su parte las aves de corral deben tener disposición de este líquido durante toda la producción, cualquier variación afectará directamente el proceso, causando pérdidas de rendimiento y bajas de peso, estrés, problemas sanitarios y etológicos de los lotes.
+        p.mb-0 Por su parte, las aves de corral deben tener disposición de este líquido durante toda la producción, cualquier variación afectará directamente el proceso, causando pérdidas de rendimiento y bajas de peso, estrés, problemas sanitarios y etológicos de los lotes.
 
     p Esta labor puede verse afectada por diversos factores, tales como la temperatura tanto del ambiente como de la misma agua, el tipo de bebedero y almacenamiento, la edad, el sexo, la humedad, entre otros, por eso, debe realizarse con frecuencia supervisión de la calidad física, química y bacterianas del agua y tomar las medidas correctivas pertinentes.
-    p De otra parte, la Resolución 2115 de 2007, busca establecer el sistema para la protección y control de la calidad del agua, con el fin de monitorear, prevenir y controlar los riesgos para la salud humana ya sean físicos químicos o microbiológicos, causados por su consumo, exceptuando el agua envasada.
+    p De otra parte, la Resolución 2115 de 2007, busca establecer el sistema para la protección y control de la calidad del agua, con el fin de monitorear, prevenir y controlar los riesgos para la salud humana, ya sean físicos, químicos o microbiológicos, causados por su consumo, exceptuando el agua envasada.
     p.mb-4 Respecto a las propiedades fisicoquímicas y microbiológicas del agua potable, estas se caracterizan por su densidad que es de 1 g/cm3, amplio margen de temperaturas en fase líquida (0 - 100ºC) ya que su punto de ebullición es a 100°C a nivel del mar y el de congelamiento es a 0°C, constante dieléctrica elevada que permite que las disoluciones puedan conducir la electricidad y permite la disociación de la mayoría de las sales inorgánicas; elevado calor específico y calor de vaporización lo que causa que el calor liberado en reacciones bioquímicas exotérmicas sea fácilmente absorbido y/o eliminado con pequeña variación de la temperatura del individuo; y tensión superficial muy elevada que la hace pegajosa y elástica.   
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5

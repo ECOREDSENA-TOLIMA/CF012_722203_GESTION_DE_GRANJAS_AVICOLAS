@@ -12,7 +12,7 @@
         p.mb-0 La etología puede ser definida como el estudio del comportamiento de las especies animales, todas, incluido el hombre, en su medio natural.
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_1 Contexto etológico 
+      h2 Contexto etológico 
       
     p.mb-5 El comportamiento animal es el producto de la interacción de las expresiones genéticas más el ambiente. 
 
@@ -37,8 +37,8 @@
         p.mb-0 En cuanto a la especie G. Gallus hay factores etológicos o comportamentales que debemos considerar, pues son aves que presentan capacidad cognitiva espacial, percepción del tiempo y del contexto y de aprendizaje, de comportamiento gregario, que han limitado su capacidad de vuelo por selección artificial, poseen un orden jerárquico especial en el que hay un macho que domina sobre los demás y un macho que está sometido a todos los demás machos, mientras las gallinas no entran en dominancia de los machos; cuando hay un solo macho en el grupo, este ocupa el primer lugar y las gallinas estarán en un puesto inferior naturalmente, sin embargo, si no hay presencia de machos, las gallinas determinan su rango jerárquico a través de peleas que pueden ser violentas, alargándose y complicándose proporcionalmente al número de animales, es decir a mayor número mayores peleas, más violentas, complicadas y largas.
 
     p Habitualmente pueden ser caníbales, si un ave está lastimada y se visualiza sangrado, las demás no dejan de picotearla. El punto de equilibrio y zona de fuga están relacionadas con el campo visual, lo cual se debe tener en cuenta para el manejo en grupo en donde la oscilación del operador marca la línea de movimiento de las aves.
-    p Respecto a la parte de alimentación, debido a que son monogástricas y que su tracto gastrointestinal es relativamente corto y afecta su tránsito alimenticio, el cual se lleva a cabo en un tiempo inferior a 4 horas, debe suministrarse diferentes raciones al día, esto es de importancia para la ingesta ya que tienen deficiente sentido del gusto y el olfato.
-    p Otro factor que debe ser tomado en cuenta es la influencia del fotoperiodo en las aves de corral tanto en su ciclo de reproducción, como de descanso y crecimiento, por eso es importante conocer los requerimientos fisiológicos y técnicos para poder hacer un buen manejo en beneficio de la producción y garantizar el bienestar animal.
+    p Respecto a la parte de alimentación, debido a que son monogástricas y que su tracto gastrointestinal es relativamente corto y afecta su tránsito alimenticio, el cual se lleva a cabo en un tiempo inferior a 4 horas, debe suministrarse diferentes raciones al día, esto es de importancia para la ingesta, ya que tienen deficiente sentido del gusto y el olfato.
+    p Otro factor que debe ser tomado en cuenta es la influencia del fotoperiodo en las aves de corral, tanto en su ciclo de reproducción, como de descanso y crecimiento, por eso es importante conocer los requerimientos fisiológicos y técnicos para poder hacer un buen manejo en beneficio de la producción y garantizar el bienestar animal.
 
 
 

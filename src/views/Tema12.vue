@@ -40,9 +40,10 @@
 
           h3.text-center(style="color:#000") Relacionado al producto final
           p.text-center(style="color:#000") Clasificación del huevo, número total de cajas producidas, mermas (rotos o picados), pigmentación del pollo, alimento almacenado en silo, inventario de empaques (cajas de cartón, divisiones, separadores de huevo), entre otros.
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_12_1 12.1 Producción de carne
+    
+    Separador
+    #t_12_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 12.1 Producción de carne
 
     p Los parámetros necesarios para determinar el comportamiento de los pollos de engorde en su periodo productivo son la línea, fecha de nacimiento, total de animales recibidos, peso promedio inicial, duración del periodo, promedio ave día, muertes, porcentaje de mortalidad, descartes eliminados, porcentaje de descartes eliminados, consumo total del lote, consumo promedio ave periodo, peso final promedio de pollo en pie, total de aves procesadas, conversión pollo en pie, conversión de pollo procesado, índice de eficiencia, índice de productividad, factor europeo de eficiencia en la producción, eficiencia alimenticia y el porcentaje de rendimiento en canal.
     p.mb-5 Fórmulas importantes a considerar antes del sacrificio:  
@@ -103,42 +104,43 @@
         i.fas.fa-circle
         | <strong>Viabilidad =</strong> (número de aves vivas ÷ número de aves encasetadas) x 100.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_12_2 12.2 Producción de huevo
+    Separador
+    #t_12_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 12.2 Producción de huevo
 
     p.mb-5 Los huevos comerciales son generados en las granjas de explotación avícola dedicada a la producción de huevos para consumo humano, en estas se implementan procesos donde se garantiza la protección de la inocuidad del huevo o su vida útil, ofreciendo buenas condiciones sanitarias, protocolos y buenas prácticas para que permanezcan en condiciones higiénicas; para esto deben cumplir con los siguientes aspectos:  
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")(data-aos="fade-down")
       .row.justify-content-center.align-items-center(titulo="La recolección de huevo")
-        .col-lg-2.col-10.mb-lg-0.mb-3
+        .col-lg-2.col-md-4.col-8.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema12/decorador-4.svg', alt='La recolección de huevo')
         .col-md-8.col-12
           p Se puede realizar de forma manual o mediante un sistema automático de recolección (en cinta), todos los operarios que participan en la recolección de huevos deben seguir estrictamente las instrucciones de lavado y desinfección de manos.
           
       .row.justify-content-center.align-items-center(titulo="Registros")
-        .col-lg-2.col-10.mb-lg-0.mb-3
+        .col-lg-2.col-md-4.col-8.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema12/decorador-5.svg', alt='Registros')
         .col-md-8.col-12
           p En las granjas se deben mantener registros de las actividades relacionadas con la recolección y almacenamiento de los huevos, donde se clasifican y consideran los siguientes aspectos: lote, fecha, procedimiento de rotación de producto, cantidades recolectadas y las cantidades de producto no conforme.
       
       .row.justify-content-center.align-items-center(titulo="Clasificación y medidas")
-        .col-lg-2.col-10.mb-lg-0.mb-3
+        .col-lg-2.col-md-4.col-8.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema12/decorador-6.svg', alt='Clasificación y medidas')
         .col-md-8.col-12
           p Se deben tomar las medidas necesarias cuando se detecte en los huevos <em>salmonella gallinarum, pullorum, enteritidis y typhimurium</em> de acuerdo con la legislación vigente, dejando registro del procedimiento en recuperación, destrucción y eliminación de los huevos.
 
       .row.justify-content-center.align-items-center(titulo="Almacenamiento")
-        .col-lg-2.col-10.mb-lg-0.mb-3
+        .col-lg-2.col-md-4.col-8.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema12/decorador-7.svg', alt='Almacenamiento')
         .col-md-8.col-12
           p Debe ser adecuado, donde los techos, pisos y paredes permanezcan limpios y en buen estado. Además de cumplir con buenas prácticas de manipulación de alimentos tales como limpieza, protección de lámparas, control de plagas, separación de producto de las paredes y pisos.
 
       .row.justify-content-center.align-items-center(titulo="Transporte")
-        .col-lg-2.col-10.mb-lg-0.mb-3
+        .col-lg-2.col-md-4.col-8.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema12/decorador-8.svg', alt='Transporte')
         .col-md-8.col-12

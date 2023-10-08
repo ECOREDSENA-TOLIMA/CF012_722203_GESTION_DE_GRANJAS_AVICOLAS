@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Contexto, características y tipos de las líneas comerciales de aves producción de carne y huevo
+      h1 Contexto, características y tipos de las líneas comerciales de aves, producción de carne y huevo
 
     .d-flex.flex-wrap.mb-5
       .col-xl-7.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
@@ -24,22 +24,22 @@
           ul.lista-ul.mb-0
             li 
               i.lista-ul__vineta
-              | Originaria de Alemania
+              | Originaria de Alemania.
             li 
               i.lista-ul__vineta
-              | Altos picos de postura y persistencia
+              | Altos picos de postura y persistencia.
             li 
               i.lista-ul__vineta
-              | Buen potencial genético
+              | Buen potencial genético.
             li 
               i.lista-ul__vineta
               | La cantidad de huevos por ave es significativamente alta y de buen tamaño.
             li 
               i.lista-ul__vineta
-              | La cáscara del huevo es de color blanca
+              | La cáscara del huevo es de color blanca.
             li 
               i.lista-ul__vineta
-              | Alcanza 50% de producción a los 140-150 días
+              | Alcanza 50 % de producción a los 140-150 días.
 
         .col-md-4
           figure
@@ -54,28 +54,28 @@
           ul.lista-ul.mb-0
             li 
               i.lista-ul__vineta
-              | Originaria de Alemania
+              | Originaria de Alemania.
             li 
               i.lista-ul__vineta
-              | Plumaje de color castaño
+              | Plumaje de color castaño.
             li 
               i.lista-ul__vineta
-              | Buen nivel de postura
+              | Buen nivel de postura.
             li 
               i.lista-ul__vineta
-              | Cáscara del huevo marrón
+              | Cáscara del huevo marrón.
             li 
               i.lista-ul__vineta
-              | Temperamento tranquilo
+              | Temperamento tranquilo.
             li 
               i.lista-ul__vineta
-              | Postura de 200 huevos al año
+              | Postura de 200 huevos al año.
             li 
               i.lista-ul__vineta
-              | Capacidad para adaptarse  al clima
+              | Capacidad para adaptarse al clima.
             li 
               i.lista-ul__vineta
-              | Peso promedio del huevo 75 a 80 g
+              | Peso promedio del huevo 75 a 80 g.
 
       .row
         .col-md-7.mb-4.mb-md-0(data-aos="down-left")
@@ -83,19 +83,19 @@
           ul.lista-ul.mb-0
             li 
               i.lista-ul__vineta
-              | Origen italiano
+              | Origen italiano.
             li 
               i.lista-ul__vineta
-              | Plumaje blanco y cola abierta en abanico
+              | Plumaje blanco y cola abierta en abanico.
             li 
               i.lista-ul__vineta
-              | Promedio anual de 300 huevos
+              | Promedio anual de 300 huevos.
             li 
               i.lista-ul__vineta
-              | Características rústicas
+              | Características rústicas.
             li 
               i.lista-ul__vineta
-              | Huevo de cáscara blanca
+              | Huevo de cáscara blanca.
 
         .col-md-4
           figure
@@ -110,31 +110,31 @@
           ul.lista-ul.mb-0
             li 
               i.lista-ul__vineta
-              | Gallina ligera
+              | Gallina ligera.
             li 
               i.lista-ul__vineta
-              | Pone 200 a 220 huevos
+              | Pone 200 a 220 huevos.
             li 
               i.lista-ul__vineta
-              | Alimentadas naturalmente
+              | Alimentadas naturalmente.
             li 
               i.lista-ul__vineta
-              | Huevos de cáscara blanca
+              | Huevos de cáscara blanca.
             li 
               i.lista-ul__vineta
-              | Alcanza el 50% de postura a los 144 días
+              | Alcanza el 50 % de postura a los 144 días.
             li 
               i.lista-ul__vineta
-              | Huevos de 65 g
+              | Huevos de 65 g.
             li 
               i.lista-ul__vineta
-              |  Alta adaptabilidad
+              |  Alta adaptabilidad.
             li 
               i.lista-ul__vineta
-              | Huevos por ave alojada 466
+              | Huevos por ave alojada 466.
             li 
               i.lista-ul__vineta
-              | Periodo de postura 18-100 semanas
+              | Periodo de postura 18-100 semanas.
       
       .row
         .col-md-7.mb-4.mb-md-0(data-aos="down-left")
@@ -142,28 +142,28 @@
           ul.lista-ul.mb-0
             li 
               i.lista-ul__vineta
-              | En Colombia comercializan dos de sus variedades más exitosas Hy-line W36 y Hy-line brown
+              | En Colombia comercializan dos de sus variedades más exitosas Hy-line W36 y Hy-line brown.
             li 
               i.lista-ul__vineta
-              | Produce más de 467 huevos
+              | Produce más de 467 huevos.
             li 
               i.lista-ul__vineta
-              | Huevos de cáscara marrón oscuro
+              | Huevos de cáscara marrón oscuro.
             li 
               i.lista-ul__vineta
-              | Plumaje de color castaño
+              | Plumaje de color castaño.
             li 
               i.lista-ul__vineta
-              | Hasta 100 semanas de producción
+              | Hasta 100 semanas de producción.
             li 
               i.lista-ul__vineta
-              | Peso corporal a las 17 semanas es 1,40 - 1,48 kg
+              | Peso corporal a las 17 semanas es 1,40 - 1,48 kg.
             li 
               i.lista-ul__vineta
-              | Huevos ave-alojada a 100 semanas 453 - 467
+              | Huevos ave-alojada a 100 semanas 453 - 467.
             li 
               i.lista-ul__vineta
-              | Promedio consumo de alimento diario (18 - 100 semanas) 105 - 112 g/día por ave
+              | Promedio consumo de alimento diario (18 - 100 semanas) 105 - 112 g/día por ave.
 
         .col-md-4
           figure
@@ -178,22 +178,22 @@
           ul.lista-ul.mb-0
             li 
               i.lista-ul__vineta
-              | Originaria de Estados Unidos
+              | Originaria de Estados Unidos.
             li 
               i.lista-ul__vineta
-              | La variedad roja es la más distribuida en el país
+              | La variedad roja es la más distribuida en el país.
             li 
               i.lista-ul__vineta
-              | Plumaje castaño brillante y cola tono más oscuro
+              | Plumaje castaño brillante y cola tono más oscuro.
             li 
               i.lista-ul__vineta
-              | Huevo de cáscara marrón
+              | Huevo de cáscara marrón.
             li 
               i.lista-ul__vineta
-              | Promedio anual de 200 a 300 huevos
+              | Promedio anual de 200 a 300 huevos.
             li 
               i.lista-ul__vineta
-              | Alta adaptabilidad
+              | Alta adaptabilidad.
 
     Separador
 

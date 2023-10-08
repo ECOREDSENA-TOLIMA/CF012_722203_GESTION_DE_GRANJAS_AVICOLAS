@@ -52,7 +52,7 @@
           p <strong>Bebederos:</strong> su diseño puede variar según el tipo de comedero utilizado y la edad de la parvada. En el siguiente recurso se proporcionan especificaciones detalladas según su tipo:
 
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5
-      .tarjeta.color-acento-contenido
+      .tarjeta.color-acento-contenido.col-ipad
         .row.justify-content-center.mb-5
           .col-12
             img.img-slider(src='@/assets/curso/temas/tema1/img-5.png' alt='')
@@ -65,7 +65,7 @@
             i.lista-ul__vineta
             | 4,0 cm por ave de corral adulta.                  
        
-      .tarjeta.color-acento-contenido
+      .tarjeta.color-acento-contenido.col-ipad
         .row.justify-content-center.mb-5
           .col-12
             img.img-slider(src='@/assets/curso/temas/tema1/img-6.png' alt='')
@@ -81,7 +81,7 @@
             i.lista-ul__vineta
             | 1 por cada 15 aves de corral adultas.
 
-      .tarjeta.color-acento-contenido
+      .tarjeta.color-acento-contenido.col-ipad
         .row.justify-content-center.mb-5  
           .col-12
             img.img-slider(src='@/assets/curso/temas/tema1/img-7.png' alt='')
@@ -97,7 +97,7 @@
             i.lista-ul__vineta
             | 1 por cada 50 a 75 aves adultas.                                         
 
-      .tarjeta.color-acento-contenido
+      .tarjeta.color-acento-contenido.col-ipad
         .row.justify-content-center.mb-5
           .col-12
             img.img-slider(src='@/assets/curso/temas/tema1/img-8.png' alt='')
@@ -113,7 +113,7 @@
           p <strong>Comederos:</strong> su cantidad se determina en base al número de aves en el galpón y la elección de su tipo. A continuación, se detallan las especificaciones correspondientes a cada tipo:
     
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5
-      .tarjeta.color-acento-contenido
+      .tarjeta.color-acento-contenido.col-ipad
         .row.justify-content-center.mb-5
           .col-12
             img.img-slider(src='@/assets/curso/temas/tema1/img-9.png' alt='')
@@ -126,7 +126,7 @@
             i.lista-ul__vineta
             | 2,5 m por cada 250 pollos.                 
        
-      .tarjeta.color-acento-contenido
+      .tarjeta.color-acento-contenido.col-ipad
         .row.justify-content-center.mb-5
           .col-12
             img.img-slider(src='@/assets/curso/temas/tema1/img-10.png' alt='')
@@ -139,7 +139,7 @@
             i.lista-ul__vineta
             | 1 por cada 100 pollitos.
 
-      .tarjeta.color-acento-contenido
+      .tarjeta.color-acento-contenido.col-ipad
         .row.justify-content-center.mb-5  
           .col-12
             img.img-slider(src='@/assets/curso/temas/tema1/img-11.png' alt='')
@@ -155,7 +155,7 @@
             i.lista-ul__vineta
             | 1 por cada 25 aves.                                        
 
-      .tarjeta.color-acento-contenido
+      .tarjeta.color-acento-contenido.col-ipad
         .row.justify-content-center.mb-5
           .col-12
             img.img-slider(src='@/assets/curso/temas/tema1/img-12-2.png' alt='' style="height:110%")
@@ -174,18 +174,29 @@
     .col-xl-10.mx-auto.mb-5
       .cajon.color-primario.p-4.d-flex.flex-wrap(data-aos="fade-right" style="background-color: #FFE9E9")
         .col-md-12.ps-lg-4
-          p <strong>Nidales:</strong> el número de nidales está relacionado directamente con el número de aves en el galpón y obedece a la constante de:
+          p.mb-0 <strong>Nidales:</strong> el número de nidales está relacionado directamente con el número de aves en el galpón y obedece a la constante de:
 
-    .col-xl-10.mx-auto.mb-5
-      img.d-md-block(src="@/assets/curso/temas/tema1/img-13.svg" data-aos="fade-left")
-
+    .col-xl-10.col-12.mx-auto.mb-5
+      .tarjeta.color-primario--borde 
+        .row.justify-content-center.align-items-center
+          .col-md-3.col-12
+            img.d-md-block(src="@/assets/curso/temas/tema1/img-13.png" data-aos="fade-left")
+          .col 
+            p.mb-md-0 #[b 1 nidal por cada 5 aves ubicado a 60 cm del suelo.]
     .col-xl-10.mx-auto.mb-5
       .cajon.color-primario.p-4.d-flex.flex-wrap(data-aos="fade-right" style="background-color: #FFE9E9")
         .col-md-12.ps-lg-4
-          p <strong>Criadoras:</strong> el número depende de la capacidad de este elemento en sí y la edad de los pollitos, la más comúnmente encontrada en el mercado y por ende la más utilizada es la de capacidad de:
+          p.mb-0 <strong>Criadoras:</strong> el número depende de la capacidad de este elemento en sí y la edad de los pollitos, la más comúnmente encontrada en el mercado y por ende la más utilizada es la de capacidad de:
 
-    .col-xl-10.mx-auto.mb-5
-      img.d-md-block(src="@/assets/curso/temas/tema1/img-14.svg" data-aos="fade-left")
+    .col-xl-10.col-12.mx-auto.mb-5
+      .tarjeta.color-primario--borde 
+        .row.justify-content-center.align-items-center
+          .col-md-4.col-12
+            img.d-md-block(src="@/assets/curso/temas/tema1/img-14.png" data-aos="fade-left")
+          .col 
+            p.mb-md-0 #[b 500 a 1.000 pollitos.]
+    //- .col-xl-10.mx-auto.mb-5
+    //-   img.d-md-block(src="@/assets/curso/temas/tema1/img-14.svg" data-aos="fade-left")
 
 
 

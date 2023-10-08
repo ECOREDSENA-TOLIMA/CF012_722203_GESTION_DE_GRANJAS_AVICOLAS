@@ -35,7 +35,7 @@ export default {
         nombreRuta: 'tema3',
         numero: '3',
         titulo:
-          'Contexto, características y tipos de las líneas comerciales de aves producción de carne y huevo',
+          'Contexto, características y tipos de las líneas comerciales de aves, producción de carne y huevo',
         desarrolloContenidos: true,
       },
       {
@@ -163,7 +163,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/material.zip',
+        download: 'downloads/CFA_12_722203.zip',
       },
       {
         icono: 'fas fa-download',
@@ -242,6 +242,14 @@ export default {
     },
     {
       tema: '10. Medicamentos y biológicos',
+      referencia:
+        'Fenavi. (2020). Guía rápida. Alternativas para el manejo de residuos orgánicos de la producción avícola en granja.',
+      tipo: 'Documento',
+      link:
+        'https://fenavi.org/publicaciones-programa-ambiental/guia-rapida-alternativas-para-el-manejo-de-residuos-organicos-de-la-produccion-avicola-en-granja/',
+    },
+    {
+      tema: '11. Vacunación en aves de corral',
       referencia:
         'Fenavi. (2019). Conceptos importantes a tener en cuenta para el control y diagnóstico de la enfermedad de Newcastle.',
       tipo: 'Documento',

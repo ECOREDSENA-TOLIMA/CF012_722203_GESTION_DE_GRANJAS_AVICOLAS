@@ -19,44 +19,45 @@
 
     p.mb-4 Prevenir las enfermedades necesita de buen manejo, buena nutrición, bioseguridad, diagnóstico oportuno y un calendario de vacunación que se adapte a las condiciones infecciosas presentes en el medio ambiente.
     
-    ul.lista-ul.mb-4
-      li 
-        i.lista-ul__vineta
-        | Las aves de corral sanas, como todos los seres biológicos, mostrarán sus características físicas y fisiológicas de que se encuentran en buen estado, además de que lo demostraran etológicamente.
+    //- ul.lista-ul.mb-4
+    //-   li 
+    //-     i.lista-ul__vineta
+    //-     | Las aves de corral sanas, como todos los seres biológicos, mostrarán sus características físicas y fisiológicas de que se encuentran en buen estado, además de que lo demostraran etológicamente.
+    p.mb-4 Las aves de corral sanas, como todos los seres biológicos, mostrarán sus características físicas y fisiológicas de que se encuentran en buen estado, además de que lo demostraran etológicamente.
     
     h4.mb-4 Características saludables
     p.mb-5 Algunas de las variables que se tienen en cuenta al hablar del estado saludable de las aves de corral sin dunda son las constantes fisiológicas, los sentidos de la visión, el oído y la libertad de movilización, por eso es importante tener presente los siguientes aspectos saludables:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-right") 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-1.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Temperatura corporal
         p.text-center(style="color:#000") Normalmente oscila entre los 40°C a 42°C.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-2.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Frecuencia cardíaca
         p.text-center(style="color:#000") Latidos por minuto en intervalos de 180 a 340.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-3.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Frecuencia respiratoria
         p.text-center(style="color:#000") En un ciclo normal 127,2 inspiraciones/minuto, con máximas de 277,7 inspiraciones/minuto.
 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-4.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Visión
         p.text-center(style="color:#000") Son muy sensibles a los movimientos bruscos y a las luces parpadeantes, esto permite identificar posibles depredadores y escapar, son asustadizas a cualquier movimiento repentino o brusco, se debe evitar causar estrés y manipular con precaución y lentamente, para que las aves puedan asociar y ver adecuadamente al personal.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-5.svg' alt='AvatarTop')
@@ -93,19 +94,19 @@
               h5 Figura 5.
               span <em>Pollo con la enfermedad de Newcastle</em>
             figure
-              img.mb-3(src='@/assets/curso/temas/tema9/img-3.svg', alt='Texto que describa la imagen')
+              img.mb-3(src='@/assets/curso/temas/tema9/img-3.svg', alt='En la figura 5 se muestra un pollo padeciendo la enfermedad de Newcastle.')
 
         .row
           .col-md-6.mb-4.mb-md-0
             h3 La gripe o influenza aviar 
-            p Es una enfermedad viral muy contagiosa, de rápida propagación, diseminándose indiscriminadamente, con una alta morbimortalidad de hasta el 100%. Para hacer el control se requiere de medidas y acciones de vigilancia epidemiológica y bioseguridad.
+            p Es una enfermedad viral muy contagiosa, de rápida propagación, diseminándose indiscriminadamente, con una alta morbimortalidad de hasta el 100 %. Para hacer el control se requiere de medidas y acciones de vigilancia epidemiológica y bioseguridad.
 
           .col-md-6.px-3
             .titulo-sexto.color-acento-contenido(data-aos="fade-right")
               h5 Figura 6.
               span <em>Pollo con la gripe o influenza aviar</em>
             figure
-              img.mb-3(src='@/assets/curso/temas/tema9/img-4.svg', alt='Texto que describa la imagen')
+              img.mb-3(src='@/assets/curso/temas/tema9/img-4.svg', alt='En la figura 6 se muestra la cabeza y las patas de un pollo con la gripe o influenza aviar.')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -117,7 +118,7 @@
               h5 Figura 7.
               span <em>Pollo con salmonelosis aviar</em>
             figure
-              img.mb-3(src='@/assets/curso/temas/tema9/img-5.svg', alt='Texto que describa la imagen')
+              img.mb-3(src='@/assets/curso/temas/tema9/img-5.svg', alt='En la figura 7 se muestra un pollito padeciendo salmonelosis aviar.')
 
     h4.mb-4 Signos de reconocimiento de las enfermedades de notificación oficial
     p Reconocer los signos de las enfermedades de control oficial es de vital importancia, puesto que permite a las unidades productivas actuar oportunamente ante un brote en la producción que pueda afectar visiblemente todos los procesos y que pueda propagarse rápidamente interviniendo con la sanidad, bioseguridad, buenas prácticas, trazabilidad, inocuidad y calidad del producto. 
@@ -175,49 +176,49 @@
     p.mb-5 De diagnosticarse a través de examen y prueba de laboratorio una enfermedad de reporte obligatorio, la oficina local del ICA y sus profesionales médicos veterinarios o médicos veterinarios zootecnistas realizarán las siguientes acciones:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-right") 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-6.svg' alt='AvatarTop')
         p.text-center(style="color:#000") Notificación oficial al predio involucrado, oficina regional y nacional.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-7.svg' alt='AvatarTop')
         p.text-center(style="color:#000") Convocatoria comité de emergencia sanitaria público-privado, ya sea específicamente para el gremio o en general, dependiendo de la enfermedad.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-8.svg' alt='AvatarTop')
         p.text-center(style="color:#000") Aplicación plan de contingencia para tratamiento de focos, perifocos y zonas de alto riesgo.
 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-9.svg' alt='AvatarTop')
         p.text-center(style="color:#000") Delimitación de zonas así: zona de foco de un radio de 5 km a la redonda, dejando una zona de perifoco de aproximadamente de 10 km de radio.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-10.svg' alt='AvatarTop')
         p.text-center(style="color:#000") Se realizará fusil sanitario in situ del total de la población de aves afectadas en el predio y se hará incineración de cadáveres, huevos y residuos como gallinaza o pollinaza, cama de galpón, etc., de acuerdo con las normas dictaminadas por la Resolución 17753 de 2019.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-11.svg' alt='AvatarTop')
         p.text-center(style="color:#000") Establecimiento de zona de cuarentena de, por lo menos, 21 días antes de autorizar cualquier tipo de movimiento como salida o introducción de nuevas aves.
 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-12.svg' alt='AvatarTop')
         p.text-center(style="color:#000") Seguimiento y monitoreo de los predios afectados por la enfermedad.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-13.svg' alt='AvatarTop')
@@ -226,49 +227,49 @@
     p Para la zona de foco y peri foco deberá aplicarse el siguiente protocolo:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-right") 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-14.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Localización de todas las producciones avícolas
         p.text-center(style="color:#000") Es necesario identificar los focos en las producciones sean grandes, medianas o pequeñas, o predios en donde se encuentre cualquier tipo de aves de traspatio, gallos de pelea, patos o pavos, ornamentales, entre otras, y practicar visitas de inspección sanitaria y pruebas de laboratorio.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-15.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Extremar medidas de bioseguridad
         p.text-center(style="color:#000") En las producciones se debe realizar limpieza y  desinfecciones de las zonas afectadas, control de tránsito en la zona, de aves, de las personas que trabajen con las mismas, vehículos, cadáveres, huevos, entre otros.
 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-16.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Movimientos
         p.text-center(style="color:#000") De aves para beneficio, huevos para incubar o para consumo y aves de un día, se realizarán únicamente bajo la autorización del ICA, el veterinario oficial de la planta de beneficio deberá estar advertido de la llegada de esas aves para proceder a un sacrificio apartado de otras aves y para la identificación de la carne, procedente de las mismas.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-17.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Transporte
         p.text-center(style="color:#000") Las aves de un (1) día o huevos para incubación podrán ser transportados de preferencia a establecimientos dentro de la zona del foco o de vigilancia o a un establecimiento con control oficial, los huevos para consumo podrán ser transportados preferiblemente a un establecimiento elaborador de ovoproductos, o deberán ser identificados para su comercialización dentro de la zona de foco o de vigilancia, o en otra zona previa desinfección de los mismos.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-18.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Cuarentena
         p.text-center(style="color:#000") Las medidas de la zona foco se mantendrán durante 21 días como mínimo a partir del día en que se realizó la desinfección del establecimiento, a partir de ese momento, la zona de foco pasará a formar parte de la zona de vigilancia, se mantendrán durante un período de 30 días como mínimo, a partir de la implementación de las medidas sanitarias y de bioseguridad para controlar el predio afectado.
 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-19.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Novedades
         p.text-center(style="color:#000") De no registrarse novedades, las medidas adoptadas en la zona de vigilancia se mantendrán durante un periodo de 30 días como mínimo, a partir de la última fecha de aplicación de las medidas sanitarias y de bioseguridad diseñadas para el control tanto en la zona de foco como en la zona de vigilancia, y en los periodos durante los cuales se mantengan las medidas antes descritas.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-20.svg' alt='AvatarTop')
@@ -286,7 +287,7 @@
         p.mb-0 También estará encargado de realizar el respectivo seguimiento a los casos presentados y la resolución de los mismos, ofreciendo datos confiables, estableciendo base de datos, estadísticas e indicadores que sean de ayuda y se encuentren disponibles para los predios y las instituciones, así como para el gobierno nacional.
 
     h4.mb-4 Vacunación
-    p El ICA con su equipo de profesionales decidirá los casos en los que se deba aplicar vacunas para coadyuvar en el control de la enfermedad se deberá aunar esfuerzos con todos los actores del gremio para hacer la aplicación de estos en las zonas de foco, perifoco y vigilancia.
+    p El ICA con su equipo de profesionales decidirá los casos en los que se deba aplicar vacunas para coadyuvar en el control de la enfermedad, se deberá aunar esfuerzos con todos los actores del gremio para hacer la aplicación de estos en las zonas de foco, perifoco y vigilancia.
     p.mb-4 Comunicación a la OIE y a los países de la región: el ICA y el Ministerio de Salud realizarán las respectivas comunicaciones dentro de los plazos determinados a la Oficina Internacional de Epizootias, a los Estados miembros del Mercosur y Comunidad Andina de Naciones las novedades registradas para las enfermedades de notificación obligatoria de acuerdo con los protocolos establecidos para estas.
 
 

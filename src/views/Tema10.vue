@@ -41,9 +41,10 @@
 
           h3.text-center(style="color:#000") Frecuencia respiratoria
           p.text-center(style="color:#000") En un ciclo normal 127,2 inspiraciones/minuto, con máximas de 277,7 inspiraciones/minuto.
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_10_1 10.1 Vías de administración, precauciones y restricciones
+    
+    Separador
+    #t_10_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 10.1 Vías de administración, precauciones y restricciones
 
     p.mb-5 En las aves, se pueden utilizar las siguientes vías de administración de medicamentos:
 
@@ -87,8 +88,9 @@
     p Las buenas prácticas y el uso racional de medicamentos comprenden la prescripción, aplicación, distribución, almacenamiento y disposición final de los medicamentos veterinarios utilizados para controlar o tratar las enfermedades de los animales, para modificar sus funciones orgánicas o mejorar su desempeño productivo.
     p.mb-5 En todo caso, el uso de medicamentos en el tratamiento de los animales debe hacerse de forma responsable y en ningún caso alterar la inocuidad de los productos o subproductos destinados para consumo humano y animal, o sea, no deben representar riesgo para la salud de los consumidores, causar problemas y convertirse en obstáculos en el comercio de dichos productos a nivel local, regional, nacional e internacional.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_10_2 10.2 Farmacodinámica
+    Separador
+    #t_10_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 10.2 Farmacodinámica
       
     p.mb-5 Comprende el estudio de los mecanismos de acción de los medicamentos y de los efectos bioquímicos, fisiológicos o directamente farmacológicos que desarrollan los mismos. El mecanismo de acción de los medicamentos se analiza a nivel molecular y la farmacodinamia comprende el estudio de cómo una molécula de un medicamento o sus metabolitos interactúan con otras moléculas originando una respuesta o acción farmacológica.
 
@@ -103,52 +105,53 @@
 
     p Es el periodo designado entre la aplicación de cierto medicamento y el momento de sacrificio o donde se deben descartar sus producidos, en este caso el huevo, para ser autorizados para consumo humano, esto se hace con el fin de que haya la menor cantidad de residuos posibles y los alimentos preserven su inocuidad. En general hay una pauta para administrar medicamentos en aves de corral, pues si estos tienen un periodo de retiro mayor a 96 horas, se debe prescindir de su utilidad.
     p La gestión de residuos y recipientes de medicamentos y biológicos, así como los elementos utilizados para la aplicación de estos, hace parte del plan integral de residuos de las avícolas y debe estar por ende contemplado en el mismo.
-    p Los medicamentos forman parte de los residuos químicos y las vacunas de los biológicos por lo que su disposición final puede variar un poco, aunque serán incinerados y como tal deben cumplir los criterios de disposición y almacenamiento, en ningún caso se permite la reutilización. 
+    p Los medicamentos forman parte de los residuos químicos y las vacunas de los biológicos, por lo que su disposición final puede variar un poco, aunque serán incinerados y como tal deben cumplir los criterios de disposición y almacenamiento, en ningún caso se permite la reutilización. 
     p.mb-5 Además, se puede hacer devolución de pos consumo de residuos o medicamentos vencidos a las casas comerciales si se ha hecho previamente un acuerdo. Se debe realizar la entrega a empresas autorizadas por la autoridad competente, disponiendo de remisiones de envío y las actas de destrucción e incineración y la evidencia escrita sobre la disposición final de los residuos peligrosos, acorde con la legislación vigente. 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_10_3 10.3 Aspectos técnicos de la prescripción del médico veterinario
+    Separador
+    #t_10_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 10.3 Aspectos técnicos de la prescripción del médico veterinario
 
     p La persona encargada del manejo de los medicamentos debe demostrar su competencia, por lo cual se asigna de exclusividad al médico veterinario o el médico veterinario zootecnista, quien hará por escrito, en formato especial y de conformidad a las normas vigentes, los registros necesarios, cumpliendo con los criterios de las fórmulas o recetas médicas, de las cuales se deja copia en la granja, considerando especie, dosificación y vía de administración; además cuando no se administra o supervisa directamente la medicación, imparte instrucciones por escrito al personal debidamente formado y autorizado.
     p.mb-5 Los aspectos veterinarios importantes a considerar son:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-right") 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-24.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Asesoría
         p.text-center(style="color:#000") La granja debe demostrar que cuenta todo el tiempo con la asesoría directa de un médico veterinario o médico veterinario zootecnista.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-25.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Título académico
         p.text-center(style="color:#000") La granja debe tener copia del título académico del médico veterinario o médico veterinario zootecnista y matrícula profesional vigente. 
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-26.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Registro de actividades
         p.text-center(style="color:#000") Contar con todos los registros de las actividades correspondientes al manejo sanitario en responsabilidad de un médico veterinario o médico veterinario zootecnista.
 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-27.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Análisis efectuados
         p.text-center(style="color:#000") Se deben mantener los registros de los resultados de los análisis efectuados, cuando se presentan evidencias y signos clínicos de enfermedad inespecífica o exista mortalidad de etiología desconocida cuando se trate de enfermedades de control oficial.
 
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-28.svg' alt='AvatarTop')
         h3.text-center(style="color:#000") Certificados 
         p.text-center(style="color:#000") Las aves reproductoras que hayan finalizado su ciclo de producción deben contar con un certificado de origen y destino, emitido por el médico veterinario responsable de la granja.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema9/decorador-29.svg' alt='AvatarTop')
