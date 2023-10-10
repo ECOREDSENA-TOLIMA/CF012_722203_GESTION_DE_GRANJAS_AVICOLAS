@@ -42,13 +42,13 @@
             | En las producciones comerciales grandes, las aves se alimentan exclusivamente con piensos balanceados, concentrados y diseñados para suplir los requerimientos nutricionales según la línea genética, la edad y el tipo de producción, actualmente se encuentran en el mercado diferentes ofertas de fórmulas de distintas casas comerciales que afirman lograr resultados óptimos en el desarrollo productivo de las aves; también hay bases alimenticias nutricionales para que los productores que lo prefieren diseñen sus propias mezclas y concentrados.
 
     p Es de aclarar que las características físicas y organolépticas del alimento varían, si son pollos de engorde o gallinas ponedoras, esto debido a que sus necesidades son muy diferentes.
-    p.mb-4 El alimento que se presenta en la siguiente imagen son migas, el del centro son #[em pelets] y a la derecha harinas o mezclas; los pollos de engorde eligen las partículas de alimento por su forma, color, tamaño y consistencia y prefieren el alimento que sea más fácil para tomar como lo son las migajas o #[em pelets]. 
+    p.mb-4 El alimento que se presenta en la siguiente imagen son migas, el del centro son #[em pellets] y a la derecha harinas o mezclas; los pollos de engorde eligen las partículas de alimento por su forma, color, tamaño y consistencia y prefieren el alimento que sea más fácil para tomar como lo son las migajas o #[em pellets]. 
 
     .col-xl-11.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Figura 4.
         span <em>Diferentes formas de alimento con la misma composición de nutrientes</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema6/img-2.svg" data-aos="fade-left" alt="En la figura 4 se muestran tres tipos de formas de alimentos para aves, migas, pelets y harinas o mezclas.")
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema6/img-2.svg" data-aos="fade-left" alt="En la figura 4 se muestran tres tipos de formas de alimentos para aves, migas, pellets y harinas o mezclas.")
 
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(

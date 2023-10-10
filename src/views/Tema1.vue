@@ -14,8 +14,8 @@
             p Conocer y calcular la densidad del número de aves por metro cuadrado es de gran importancia para la producción, puesto que determina qué tan grande debe ser el espacio que se debe acondicionar para los galpones y evitar que haya hacinamiento, aumento de temperatura y humedad. Además, interfiere con el apetito de las aves, la ganancia de peso, la calidad de la cama puede producir canibalismo y mortalidad, lo que se traduce en pérdidas para la producción.
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-1.png" data-aos="fade-left" style="max-width: 400px")
 
-    .col-xl-10.mx-auto.mb-5
-      img.d-md-block(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-left")
+    //- .col-xl-10.mx-auto.mb-5
+    //-   img.d-md-block(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-left")
 
     .d-flex.flex-wrap.mb-5
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
